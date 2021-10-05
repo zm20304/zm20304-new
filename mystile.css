@@ -1,2 +1,12 @@
 /* color: brue;} */
 h1 { color : green; }
+
+th td {border: dashed thick black;}
+
+/* th td {border: solid thick green;} */
+
+th.important {color: red;}
+
+p.samplel1 {border: double 10px #0000ff;}
+p.samplel2 {border: inset 10px #ff0000;}
+p.samplel3 {margin: 30px 30px;padding: 10px;border: medium solid #ff00ff;}
