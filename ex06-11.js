@@ -1,4 +1,4 @@
-function hyouji(一文字ずつ){
+function hyouji(){
  //表示する文字
  varstr= "一文字ずつ表示します";
  //テキストボックスの文字数
